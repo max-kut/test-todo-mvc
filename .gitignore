@@ -1,0 +1,5 @@
+.idea
+/.env
+/vendor/
+/logs/
+/public_html/assets/img/*
